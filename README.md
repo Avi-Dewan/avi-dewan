@@ -4,7 +4,7 @@
 
 🏗️ Building backend systems with Java & Spring Boot, focused on scalable architecture and real-world product engineering.
 
-🏔️ Montola — EdTech platform for the Chittagong Hill Tracts
+🏔️ Montola — EdTech platform, focused in the Chittagong Hill Tracts
 
 🌐 Portfolio: https://avi-dewan.github.io/portfolio/
 
@@ -24,7 +24,7 @@
 ## 🚀 Current Status
 
 - ⚙️ Software Engineer @ Therap BD Ltd (production systems)
-- 🏗️ Montola — https://www.montolaschool.com (EdTech platform, live)
+- 🏗️ Montola — https://www.montolaschool.com (EdTech platform, beta state)
 - 📚 Learning system design & cloud architecture
 
 ---
