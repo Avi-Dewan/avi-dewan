@@ -55,11 +55,9 @@ Docker • NGINX • GitHub Actions
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avi-dewan&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=avi-dewan&show_icons=true&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=avi-dewan&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avi-dewan&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=avi-dewan&layout=compact&hide_border=true)
 
 💡 Focused on backend systems, scalable architecture, and product engineering.
 
